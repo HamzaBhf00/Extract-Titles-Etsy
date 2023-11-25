@@ -2,7 +2,7 @@
 
 ## How To Use?
 
-Type site:etsy.com/shop/"gpt" into the Google search bar. Next, right-click and select 'View Page Source,' then copy all the code and paste it to extract the titles.
+Type for example site:etsy.com/shop/"gpt" into the Google search bar, choose any link you want. Next, right-click and select 'View Page Source,' then copy all the code and paste it to extract the titles.
 
 ## Demo
 
